@@ -3,7 +3,7 @@
 
 - Карьерный центр Яндекс Практикум
 
-### **Стек:** *pandas, numpy, torch, psycopg2, sqlalchemy, DataLoader, sentence_transformers, NLP*
+### **Стек:** *pandas, numpy, torch, psycopg2, sqlalchemy, DataLoader, SentenceTransformer, NLP*
 
 - ### **Описание проекта**
 
